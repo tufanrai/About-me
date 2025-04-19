@@ -2,7 +2,6 @@
 - Currently learning MERN stack
 - Have huge interest in web app development
 - From Nepal --<@
-- 17 years old
 - English/Nepali :D
 
 <!---
